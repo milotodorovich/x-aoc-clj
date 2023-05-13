@@ -1,4 +1,4 @@
-(ns aoc-clj.core
+(ns aoc.core
   (:gen-class))
 
 (defn -main
